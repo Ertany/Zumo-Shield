@@ -18,7 +18,7 @@ Funktionen:
   -Fehlermeldung bei Bluetooth Problemen
   -vllt. Batteriestand, wenn möglich
   -Individuell verlegbare Tasten in Verknüpfung mit Profilen
-      Profile laden, speichern, löschen-
+      Profile laden, speichern, löschen
   -Bluetooth Autorisierung/ Usb- Autorisierung, damit kein anderes Smartphone sich mit dem Gerät verbinden kann (Diebstahl-Sicherung)
   - Instant Ausschalt-Funktion(Position vom Button nicht änderbar)
       Evtl. auch mit Taste am Smartphone
