@@ -22,3 +22,4 @@ Funktionen:
   -Bluetooth Autorisierung/ Usb- Autorisierung, damit kein anderes Smartphone sich mit dem Gerät verbinden kann (Diebstahl-Sicherung)
   - Instant Ausschalt-Funktion(Position vom Button nicht änderbar)
       Evtl. auch mit Taste am Smartphone
+  - Update Funktion
